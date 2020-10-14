@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.example.effortkotlin">
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.ACTION_MANAGE_OVERLAY_PERMISSION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+            android:name=".service.App"
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"
+            tools:replace="android:icon">
+        <activity android:name=".View.QuizSpeakActivity">
+        </activity>
+        <activity android:name=".View.ListSpeakActivity">
+        </activity>
+        <activity android:name=".View.LevelSpeakActivity">
+        </activity>
+        <activity android:name=".View.ScanActivity">
+        </activity>
+        <activity android:name=".View.TalkTranstalteActivity">
+        </activity>
+        <activity android:name=".View.TranslateActivity">
+        </activity>
+        <activity android:name=".View.GrammaActivity">
+        </activity>
+        <activity android:name=".View.RenderPdfActivity">
+        </activity>
+        <activity android:name=".View.Ga2Activity">
+        </activity>
+        <activity android:name=".View.ResultActivity">
+        </activity>
+        <activity android:name=".View.QuizActivity">
+        </activity>
+        <activity android:name=".View.NotiActivity">
+        </activity>
+        <activity android:name=".View.ListActivity">
+        </activity>
+        <activity android:name=".View.Level2Activity">
+        </activity>
+        <activity android:name=".View.HomeActivity">
+        </activity>
+        <activity android:name=".View.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".service.AlarmBroadcastReceiver">
+            <intent-filter>
+                <action android:name="Action_A"/>
+                <action android:name="Action_B"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".service.ActionReceiver">
+            <intent-filter>
+                <action android:name="Action_A"/>
+                <action android:name="Action_B"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".service.NotiVocaReceiver"/>
+    </application>
+
+</manifest>

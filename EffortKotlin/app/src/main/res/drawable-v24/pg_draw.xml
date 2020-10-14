@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+
+
+        </shape>
+
+    </item>
+
+    <item>
+        <clip>
+            <shape>
+                <gradient android:angle="45"
+                    android:endColor="#ff0000"
+                    android:startColor="#f9b5b5"></gradient>
+            </shape>
+        </clip>
+    </item>
+
+</level-list>
+
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="290dp"
+    android:layout_height="300dp"
+    android:orientation="vertical"
+    android:background="@drawable/dialog_noti_setting"
+    android:padding="15dp">
+
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:layout_marginTop="15dp"
+        android:textColor="#ff5858"
+        android:textStyle="bold"
+        android:textSize="22dp"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#000000"
+            android:text="Từ vựng" />
+
+        <EditText
+            android:id="@+id/et_tuvung"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:ems="9"
+            android:inputType="textPersonName"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_weight="1"
+            android:text="Nghĩa" />
+
+        <EditText
+            android:id="@+id/et_nghia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="9"
+            android:inputType="textPersonName"
+            />
+    </LinearLayout>
+
+
+
+    <Button
+        android:id="@+id/dialog_addvocanoti"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:background="@drawable/btthemtu"
+        android:layout_width="200dp"
+        android:text="Thêm từ"
+        android:textColor="#ffffff"
+        android:textStyle="italic"
+        android:layout_height="40dp"
+        />
+
+
+</LinearLayout>

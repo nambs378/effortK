@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="280dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/dialog_noti_setting"
+    android:padding="20dp">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SETTINGS"
+        android:layout_marginTop="10dp"
+        android:textColor="#ff3b3b"
+        android:textStyle="bold"
+        android:textSize="22dp"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            android:text="Time to notification (minutes)"
+            android:layout_marginBottom="7dp"/>
+
+        <EditText
+            android:id="@+id/et_timenoti"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:inputType="number"
+
+            android:background="@drawable/et_settime"
+
+            android:padding="10dp"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="15dp"
+
+
+            android:textColor="#000000"
+            android:text="Quiz vocabulary" />
+
+        <Switch
+            android:id="@+id/sw_quizvoca"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="15dp"
+
+
+            android:textColor="#000000"
+            android:text="Notification vocabulary" />
+
+        <Switch
+            android:id="@+id/sw_notion"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="25dp"
+        android:orientation="horizontal"
+        android:weightSum="2">
+        <Button
+            android:id="@+id/bt_savesetting"
+            android:layout_width="60dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:layout_marginRight="9dp"
+            android:textStyle="italic"
+            android:text="Save"
+            android:textColor="#fff"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/btsave"
+            />
+        <Button
+            android:id="@+id/bt_cancelsetting"
+            android:layout_width="60dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+
+            android:layout_marginLeft="9dp"
+
+            android:textStyle="italic"
+            android:text="Cancel"
+            android:textColor="#fff"
+            android:background="@drawable/btsave"
+            />
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:lines="2"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+
+        android:text="   Note: Chọn thời gian bạn muốn thông báo!"
+        />
+
+
+
+</LinearLayout>

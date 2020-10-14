@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/view_pdfrender"
+                tools:context=".View.RenderPdfActivity">
+
+
+    <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:minHeight="?attr/actionBarSize"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            app:titleTextColor="@android:color/white"
+            android:background="?attr/colorPrimary">
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="55dp">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                ></TextView>
+
+
+    </RelativeLayout>
+
+
+
+    <com.github.barteksc.pdfviewer.PDFView
+            android:id="@+id/pdfView"
+            android:layout_below="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+</RelativeLayout>

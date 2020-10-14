@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_marginBottom="1dp"
+                android:orientation="horizontal">
+
+    <!--<ImageView-->
+    <!--android:id="@+id/img_level"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="250dp"-->
+    <!--/>-->
+
+
+
+
+    <ImageView
+            android:id="@+id/panorama_image_view_speak"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:scaleType="centerCrop"
+
+    />
+
+
+
+    //Gradient
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:background="#85000000"
+    >
+    </RelativeLayout>
+
+
+
+    <TextView
+            android:id="@+id/tv_chude_speak"
+            android:textColor="#ffffff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="15dp"
+            android:text="Food"
+            android:layout_above="@+id/tv_description"
+            android:textSize="23dp"
+            android:textStyle="italic|bold" />
+
+
+    <TextView
+            android:id="@+id/tv_description"
+            android:textColor="#ffffff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:layout_marginBottom="3dp"
+            android:layout_alignParentBottom="true"
+            android:textStyle="italic"
+            android:layout_marginLeft="15dp"
+            android:text="level 1"/>
+
+
+
+    <!--<TextView-->
+            <!--android:id="@+id/bt_goList"-->
+            <!--android:layout_width="90dp"-->
+            <!--android:layout_height="38dp"-->
+            <!--android:layout_alignParentEnd="true"-->
+            <!--android:layout_marginRight="15dp"-->
+            <!--android:layout_marginBottom="15dp"-->
+            <!--android:textStyle="italic"-->
+            <!--android:paddingBottom="3dp"-->
+            <!--android:textSize="20dp"-->
+            <!--android:gravity="center"-->
+            <!--android:textColor="#000000"-->
+            <!--android:layout_alignParentBottom="true"-->
+            <!--android:background="@mipmap/btstartlist"-->
+            <!--android:text="Start" />-->
+
+
+    <!--<ImageView-->
+            <!--android:id="@+id/image_rT_speak"-->
+            <!--android:layout_width="20dp"-->
+            <!--android:layout_height="20dp"-->
+            <!--android:layout_alignParentEnd="true"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:background="@mipmap/gray" />-->
+
+</RelativeLayout>

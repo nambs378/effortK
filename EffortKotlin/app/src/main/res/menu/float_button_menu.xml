@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_listen"
+        android:icon="@drawable/speakgradient"
+        android:title="Nghe" />
+    <!--<item-->
+        <!--android:id="@+id/menu_speak"-->
+        <!--android:icon="@drawable/speakgradient"-->
+        <!--android:title="Nói"/>-->
+    <item
+        android:id="@+id/menu_multichoice"
+        android:icon="@drawable/speakgradient"
+        android:title="Trắc nghiệm" />
+    <item
+        android:id="@+id/menu_randomquest"
+        android:icon="@drawable/speakgradient"
+        android:title="Câu hỏi ngẫu nhiên" />
+</menu>

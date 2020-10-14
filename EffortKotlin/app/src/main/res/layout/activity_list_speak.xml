@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                     xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                     xmlns:tools="http://schemas.android.com/tools"
+                                                     android:layout_width="match_parent"
+                                                     android:layout_height="match_parent"
+                                                     android:id="@+id/view_list"
+                                                     tools:context=".View.ListActivity">
+
+
+    <ImageView
+            android:layout_width="360dp"
+            android:layout_height="210dp"
+            android:background="@drawable/vong_edit"
+            tools:ignore="MissingConstraints" />
+
+
+    <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/app_bar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            android:fitsSystemWindows="true"
+            tools:ignore="MissingConstraints">
+
+
+
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:layout_scrollFlags="scroll|exitUntilCollapsed"
+                app:contentScrim="?attr/colorPrimary"
+                app:expandedTitleTextAppearance="@android:color/transparent"
+                android:fitsSystemWindows="true"
+
+        >
+
+            <ImageView
+                    android:id="@+id/panorama_image_view_list_speak"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:scaleType="centerCrop"
+            />
+
+            <androidx.appcompat.widget.Toolbar
+                    android:id="@+id/toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="?attr/actionBarSize"
+                    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                    android:title="ggwp"
+                    android:gravity="center"
+                    app:layout_collapseMode="pin"
+            />
+
+
+
+            //Gradient
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:background="@drawable/gradient_level"
+            >
+            </RelativeLayout>
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    >
+
+
+        <RelativeLayout
+                android:id="@+id/zx1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/khung"
+                android:padding="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="7dp"
+
+        >
+
+            <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rv_listQuest_speak"
+                    android:layout_width="match_parent"
+                    android:overScrollMode="always"
+                    android:layout_height="match_parent">
+
+            </androidx.recyclerview.widget.RecyclerView>
+
+
+        </RelativeLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fabid_speak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            app:elevation="6dp"
+            app:backgroundTint="#00FDED"
+            app:pressedTranslationZ="12dp"
+            android:layout_margin="@dimen/fab_margin"
+            android:src="@drawable/invideo"
+    />
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

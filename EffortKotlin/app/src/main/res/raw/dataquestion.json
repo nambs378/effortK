@@ -1,0 +1,1591 @@
+[
+    {
+        "field1": "hello",
+        "field2": "1",
+        "field3": "Xin chào",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Afternoon",
+        "field2": "1",
+        "field3": "Buổi chiều",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "For ages",
+        "field2": "1",
+        "field3": "Đã lâu rồi",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Evening",
+        "field2": "1",
+        "field3": "Buổi tối",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Now",
+        "field2": "1",
+        "field3": "Bây giờ",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Very well",
+        "field2": "1",
+        "field3": "Rất khỏe",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Bye",
+        "field2": "1",
+        "field3": "Tạm biệt",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Liberary",
+        "field2": "1",
+        "field3": "Thư viện",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Meet",
+        "field2": "1",
+        "field3": "Gặp",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Glad",
+        "field2": "1",
+        "field3": "Vui vẻ",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Bad",
+        "field2": "1",
+        "field3": "Xấu, tồi tệ",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "A long time",
+        "field2": "1",
+        "field3": "Một thời gian dài",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Your",
+        "field2": "1",
+        "field3": "Của bạn",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Thanks",
+        "field2": "1",
+        "field3": "Cảm ơn",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "And you",
+        "field2": "1",
+        "field3": "Còn bạn",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Today",
+        "field2": "1",
+        "field3": "Hôm nay",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Later",
+        "field2": "1",
+        "field3": "Sau",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "How do you do",
+        "field2": "1",
+        "field3": "Hôm nay anh thế nào",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Not too bad",
+        "field2": "1",
+        "field3": "không tệ lắm",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Not so well",
+        "field2": "1",
+        "field3": "không tốt lắm",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Glad to meet you",
+        "field2": "1",
+        "field3": "Rất vui được làm quen với anh",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "I have’t seen you for a long time",
+        "field2": "1",
+        "field3": "Lâu lắm rồi không gặp anh",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "How are your parents?",
+        "field2": "1",
+        "field3": "Bố mẹ của bạn khỏe không",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Goodnight",
+        "field2": "1",
+        "field3": "Chúc ngủ ngon",
+        "field4": "0",
+        "field5": "Chào hỏi"
+    },
+    {
+        "field1": "Free",
+        "field2": "2",
+        "field3": "Rảnh rỗi",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Busy",
+        "field2": "2",
+        "field3": "Bận rộn",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Finish",
+        "field2": "2",
+        "field3": "Hoàn thành, kết thúc",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Football match",
+        "field2": "2",
+        "field3": "Trận đấu đá bóng",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Promise",
+        "field2": "2",
+        "field3": "Hứa",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Convenient",
+        "field2": "2",
+        "field3": "Thuận lợi, thuận tiện",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Thoughtfull",
+        "field2": "2",
+        "field3": "Ân cần, chu đáo",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Team",
+        "field2": "2",
+        "field3": "Đội",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Exciting",
+        "field2": "2",
+        "field3": "Hào hứng",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "What a pity",
+        "field2": "2",
+        "field3": "Thật đáng tiếc",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Business trip",
+        "field2": "2",
+        "field3": "Chuyến đi công việc",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Meeting",
+        "field2": "2",
+        "field3": "Cuộc họp",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Lunch",
+        "field2": "2",
+        "field3": "Bữa trưa",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Dinner",
+        "field2": "2",
+        "field3": "Bữa tối",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Hang up",
+        "field2": "2",
+        "field3": "Gác máy",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Appointment",
+        "field2": "2",
+        "field3": "Cuộc hẹn",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Are you free on Sunday Morning",
+        "field2": "2",
+        "field3": "Bạn có rảnh vào sáng chủ nhật không",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "How about having dinner with me",
+        "field2": "2",
+        "field3": "Bạn đi ăn tối với tôi được không?",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "If you are free. How about lunch",
+        "field2": "2",
+        "field3": "Nếu bạn rảnh đi ăn trưa cùng tôi được chứ?",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "I ‘m not quite sure if I ‘m free",
+        "field2": "2",
+        "field3": "Tôi không chắc là tôi có rảnh không",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Well. I engaged at that time",
+        "field2": "2",
+        "field3": "À, tôi có hẹn vào lúc đó",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "I can’t keep appointment because I am sick",
+        "field2": "2",
+        "field3": "Tôi không thể gặp bạn vì tôi bị ốm",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "What time would be goog for you",
+        "field2": "2",
+        "field3": "Khoảng mấy giờ sẽ thích hợp cho anh",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "I shall be free this evening",
+        "field2": "2",
+        "field3": "Tối nay tôi rảnh",
+        "field4": "0",
+        "field5": "Đưa ra lời mời"
+    },
+    {
+        "field1": "Congratulation",
+        "field2": "3",
+        "field3": "Chúc mừng",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Promotion",
+        "field2": "3",
+        "field3": "Thăng tiến",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Appreciate",
+        "field2": "3",
+        "field3": "Đánh giá cao",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Support",
+        "field2": "3",
+        "field3": "Ủng hộ",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Man",
+        "field2": "3",
+        "field3": "Đàn ông",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Company",
+        "field2": "3",
+        "field3": "Công ty",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "University",
+        "field2": "3",
+        "field3": "Trường đại học",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Notice",
+        "field2": "3",
+        "field3": "Thông báo",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Tell",
+        "field2": "3",
+        "field3": "Nói",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Klever",
+        "field2": "3",
+        "field3": "Thông minh",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Lucky",
+        "field2": "3",
+        "field3": "May mắn",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Success",
+        "field2": "3",
+        "field3": "Thành công",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Let me congratulation you on your graduation",
+        "field2": "3",
+        "field3": "Chúc mừng bạn vì bạn đã tốt nghiệp nhé",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Thanks. I won’t forget your help",
+        "field2": "3",
+        "field3": "Cảm ơn. Tôi sẽ không quên sự giúp đỡ của anh",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Many thanks! I’m really very happy.",
+        "field2": "3",
+        "field3": "Cảm ơn rất nhiều. Tôi thực sự rất hạnh phúc",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "I can’t tell you how happy I am",
+        "field2": "3",
+        "field3": "Tôi không thể tả được là tôi đang hạnh phúc tới thế nào",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "It’s very nice of you to say so",
+        "field2": "3",
+        "field3": "Bạn thật tốt khi nói vậy.",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "I think I’m very lucky",
+        "field2": "3",
+        "field3": "Tôi nghĩ tôi rất may mắn.",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "It was nothing",
+        "field2": "3",
+        "field3": "không có gì.",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "I don’t know what to say",
+        "field2": "3",
+        "field3": "Tôi không biết phải nói gì.",
+        "field4": "0",
+        "field5": "Chúc mừng"
+    },
+    {
+        "field1": "Since",
+        "field2": "4",
+        "field3": "Kể từ",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Lost",
+        "field2": "4",
+        "field3": "Mất đi",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Month",
+        "field2": "4",
+        "field3": "Tháng",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Ago",
+        "field2": "4",
+        "field3": "Trước đây",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Like",
+        "field2": "4",
+        "field3": "Thích",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Dislike",
+        "field2": "4",
+        "field3": "Không thích",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Stay",
+        "field2": "4",
+        "field3": "Ở lại",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Hope",
+        "field2": "4",
+        "field3": "Hi vọng",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Tired of",
+        "field2": "4",
+        "field3": "Mệt mỏi bởi",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Earth",
+        "field2": "4",
+        "field3": "Trái đất",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Collect",
+        "field2": "4",
+        "field3": "Sưu tầm",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Listen",
+        "field2": "4",
+        "field3": "Nghe",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Record",
+        "field2": "4",
+        "field3": "Ghi lại",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Classical music",
+        "field2": "4",
+        "field3": "Nhạc cổ điển",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Video games",
+        "field2": "4",
+        "field3": "Trò chơi điện tử",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Choose",
+        "field2": "4",
+        "field3": "Chọn",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Both",
+        "field2": "4",
+        "field3": "Cả hai",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Homework",
+        "field2": "4",
+        "field3": "Bài tập về nhà",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "I like summer best",
+        "field2": "4",
+        "field3": "Tôi thích mùa hè nhất",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "He’s a swimming lover",
+        "field2": "4",
+        "field3": "Anh ấy là người rất thích bơi.",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "enjoy",
+        "field2": "4",
+        "field3": "thưởng thức",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "They are my choice",
+        "field2": "4",
+        "field3": "Đó là sự lựa chọn của tôi.",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "I prefer the Daewoo Hotel",
+        "field2": "4",
+        "field3": "Tôi thích khách sạn Daewoo hơn.",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "I like both of them",
+        "field2": "4",
+        "field3": "Tôi thích cả hai",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "She dislikes driving",
+        "field2": "4",
+        "field3": "Cô ấy không thích lái xe.",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "I hate swimming",
+        "field2": "4",
+        "field3": "Tôi ghét bơi.",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "I like neither of them",
+        "field2": "4",
+        "field3": "Tôi không thích cả hai.",
+        "field4": "0",
+        "field5": "Thích và không thích"
+    },
+    {
+        "field1": "Suggestion",
+        "field2": "5",
+        "field3": "Gợi ý",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Another",
+        "field2": "5",
+        "field3": "Khác",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Bring",
+        "field2": "5",
+        "field3": "Mang",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Picture",
+        "field2": "5",
+        "field3": "Hình ảnh",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Zoo",
+        "field2": "5",
+        "field3": "Vườn bách thú",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Money",
+        "field2": "5",
+        "field3": "Tiền bạc",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Believe",
+        "field2": "5",
+        "field3": "Tin tưởng",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Interesting",
+        "field2": "5",
+        "field3": "Hấp dẫn",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Enjoy",
+        "field2": "5",
+        "field3": "Thưởng thức",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Hate",
+        "field2": "5",
+        "field3": "Ghét bỏ",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Everything",
+        "field2": "5",
+        "field3": "Mọi điều",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Right",
+        "field2": "5",
+        "field3": "Đúng",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Interrupt",
+        "field2": "5",
+        "field3": "Làm gián đoạn",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Put on",
+        "field2": "5",
+        "field3": "Mặc vào, đưa vào",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Give up",
+        "field2": "5",
+        "field3": "Bỏ cuộc",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Too much",
+        "field2": "5",
+        "field3": "Quá nhiều",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Do you mind if I make a suggestion",
+        "field2": "5",
+        "field3": "Bạn có phiền không nếu như tôi đưa ra đề nghị này?",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "I have another idea",
+        "field2": "5",
+        "field3": "Tôi có một ý tưởng khác.",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "I’d like to make one more point",
+        "field2": "5",
+        "field3": "Tôi muốn làm một điều nữa.",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Is it ok if we do it tomorrow",
+        "field2": "5",
+        "field3": "Chúng ta làm việc này vào ngày mai được chứ?",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Let’s do it now",
+        "field2": "5",
+        "field3": "Hãy làm ngay bây giờ.",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "If I were you, I would give up smoking right now?",
+        "field2": "5",
+        "field3": "Nếu tôi là bạn, tôi sẽ bỏ thuốc ngay.",
+        "field4": "0",
+        "field5": "Đề xuất ý kiến"
+    },
+    {
+        "field1": "Excuse me",
+        "field2": "6",
+        "field3": "Xin lỗi",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "The way to",
+        "field2": "6",
+        "field3": "Đường đi tới",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Walk along",
+        "field2": "6",
+        "field3": "Đi dọc theo",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Park",
+        "field2": "6",
+        "field3": "Công viên",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Street",
+        "field2": "6",
+        "field3": "Đường phố",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Sea",
+        "field2": "6",
+        "field3": "Biển",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Lake",
+        "field2": "6",
+        "field3": "Hồ",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Center",
+        "field2": "6",
+        "field3": "Trung tâm",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Short way",
+        "field2": "6",
+        "field3": "Đường tắt",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Take a bus",
+        "field2": "6",
+        "field3": "Bắt xe buýt",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "On foot",
+        "field2": "6",
+        "field3": "Đi bộ",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Get off",
+        "field2": "6",
+        "field3": "Xuống xe",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Terminal",
+        "field2": "6",
+        "field3": "Điểm cuối, bến cuối",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Opposite",
+        "field2": "6",
+        "field3": "Đối diện",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "The way",
+        "field2": "6",
+        "field3": "Đường",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Go ahead",
+        "field2": "6",
+        "field3": "Đi về phía trước",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Turn right",
+        "field2": "6",
+        "field3": "Rẽ phải",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Turn left",
+        "field2": "6",
+        "field3": "Rẽ trái",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Crossroad",
+        "field2": "6",
+        "field3": "Ngã ba, ngã tư",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Excuse me, Where is the nearest park, please?",
+        "field2": "6",
+        "field3": "Xin lỗi, cho tôi hỏi công viên gần nhất ở đâu",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Excuse me, can you tell me the way to the station?",
+        "field2": "6",
+        "field3": "Xin lỗi, bạn có thể nói cho tôi biết đường tới ga được không?",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "How can I get to the park?",
+        "field2": "6",
+        "field3": "Làm thế nào tôi có thể đến công viên?",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Turn right at the second crossing.",
+        "field2": "6",
+        "field3": "Rẽ phải ở ngã ba thứ hai",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "It’s about one hundred meters from here.",
+        "field2": "6",
+        "field3": "Khoảng 100 mét từ đây.",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Excuse me, is this the right way to the station?",
+        "field2": "6",
+        "field3": "Xin lỗi, đây có phải đường tới ga không?",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "How long will it take me to get to the sea?",
+        "field2": "6",
+        "field3": "Đi tới biển tôi phải mất bao lâu?",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Do these buses run to the center of the town?",
+        "field2": "6",
+        "field3": "Những chuyến xe buýt này có chạy đến trung tâm thành phố không?",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Is there a short way?",
+        "field2": "6",
+        "field3": "Đây có phải là đường tắt không?",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Can I take a bus there?",
+        "field2": "6",
+        "field3": "Tối có thể bắt xe buýt ở đó không?",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Can I go there on foot?",
+        "field2": "6",
+        "field3": "Tôi có thể đi bộ tới đó được không?",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Take bus number 32, get off at the terminal.",
+        "field2": "6",
+        "field3": "Đi xe buýt số 32, xuống ga cuối.",
+        "field4": "0",
+        "field5": "Hỏi đường"
+    },
+    {
+        "field1": "Clinic",
+        "field2": "7",
+        "field3": "Phòng khám bệnh",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Available",
+        "field2": "7",
+        "field3": "Có sẵn",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Possible",
+        "field2": "7",
+        "field3": "Khả thi",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Drive",
+        "field2": "7",
+        "field3": "Lái xe",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Airport",
+        "field2": "7",
+        "field3": "Sân bay",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Flight",
+        "field2": "7",
+        "field3": "Chuyến bay",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Take off",
+        "field2": "7",
+        "field3": "Cất cánh",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Take it easy",
+        "field2": "7",
+        "field3": "Bình tĩnh",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Get up",
+        "field2": "7",
+        "field3": "Thức dậy",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Get in",
+        "field2": "7",
+        "field3": "Đi vào",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Come back",
+        "field2": "7",
+        "field3": "Trở lại",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Home",
+        "field2": "7",
+        "field3": "Nhà",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Train",
+        "field2": "7",
+        "field3": "Xe lửa",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Gain",
+        "field2": "7",
+        "field3": "Đạt được, thu được",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Slow",
+        "field2": "7",
+        "field3": "Chậm",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Graduate",
+        "field2": "7",
+        "field3": "Tốt nghiệp",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Noon",
+        "field2": "7",
+        "field3": "Buổi trưa",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Watch",
+        "field2": "7",
+        "field3": "Đồng hồ đeo tay",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Wednesday",
+        "field2": "7",
+        "field3": "Thứ tư",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Friday",
+        "field2": "7",
+        "field3": "Thứ sáu",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Second",
+        "field2": "7",
+        "field3": "Giây",
+        "field4": "0",
+        "field5": "Hỏi về thời gian"
+    },
+    {
+        "field1": "Minute",
+        "field2": "7",
+        "field3": "Phút",
+        "field4": "0",
+        "field5": "Thời gian"
+    },
+    {
+        "field1": "Temperatute",
+        "field2": "8",
+        "field3": "Nhiệt độ",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Hurricane",
+        "field2": "8",
+        "field3": "Bão",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "In case",
+        "field2": "8",
+        "field3": "Trong trường hợp",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Whether",
+        "field2": "8",
+        "field3": "Thời tiết",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Forecast",
+        "field2": "8",
+        "field3": "Dự báo",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Clear up",
+        "field2": "8",
+        "field3": "Quang đãng",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Outside",
+        "field2": "8",
+        "field3": "Ở ngoài",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "South",
+        "field2": "8",
+        "field3": "Miền Nam, hướng Nam",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Snowstorm",
+        "field2": "8",
+        "field3": "Bão tuyết",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "White",
+        "field2": "8",
+        "field3": "Trắng",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Ground",
+        "field2": "8",
+        "field3": "Đất",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Dull",
+        "field2": "8",
+        "field3": "Ảm đạm",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Windy",
+        "field2": "8",
+        "field3": "Gió",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Sunny",
+        "field2": "8",
+        "field3": "Nắng",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Hot",
+        "field2": "8",
+        "field3": "Nóng bức",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Cold",
+        "field2": "8",
+        "field3": "Lạnh",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Bright",
+        "field2": "8",
+        "field3": "Sáng",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Cool",
+        "field2": "8",
+        "field3": "Mát mẻ",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Stuffy hot",
+        "field2": "8",
+        "field3": "Oi bức",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Get wet",
+        "field2": "8",
+        "field3": "Ẩm ướt",
+        "field4": "0",
+        "field5": "Thời tiết"
+    },
+    {
+        "field1": "Movie",
+        "field2": "9",
+        "field3": "Phim",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Action movie",
+        "field2": "9",
+        "field3": "Phim hành động",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Horror movie",
+        "field2": "9",
+        "field3": "Phim kinh dị",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Comedy",
+        "field2": "9",
+        "field3": "Hài kịch",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Fan",
+        "field2": "9",
+        "field3": "Người hâm mộ",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Director",
+        "field2": "9",
+        "field3": "Đạo diễn",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Play a role",
+        "field2": "9",
+        "field3": "Thủ vai",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Oscar",
+        "field2": "9",
+        "field3": "Giải thưởng điện ảnh của viện hàn lâm và nghệ thuật tại Mỹ",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Screen",
+        "field2": "9",
+        "field3": "Màn hình",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "End",
+        "field2": "9",
+        "field3": "Kết thúc",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Film",
+        "field2": "9",
+        "field3": "Phim",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Ticket",
+        "field2": "9",
+        "field3": "Vé",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Front row",
+        "field2": "9",
+        "field3": "Hàng trước",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Movie star",
+        "field2": "9",
+        "field3": "Ngôi sao điện ảnh",
+        "field4": "0",
+        "field5": "Xem phim"
+    },
+    {
+        "field1": "Fire",
+        "field2": "10",
+        "field3": "Ngọn lửa",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Do someone a favor",
+        "field2": "10",
+        "field3": "Giúp đỡ ai đó",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Climb",
+        "field2": "10",
+        "field3": "Leo",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Get down",
+        "field2": "10",
+        "field3": "Xuống",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Smoke",
+        "field2": "10",
+        "field3": "Khói",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Over there",
+        "field2": "10",
+        "field3": "Đằng kia",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Fire - Fighter",
+        "field2": "10",
+        "field3": "Lính cứu hỏa",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Wait",
+        "field2": "10",
+        "field3": "Chờ đợi",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Have a look",
+        "field2": "10",
+        "field3": "Nhìn qua",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Hold on",
+        "field2": "10",
+        "field3": "Giữ lấy",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Carefull",
+        "field2": "10",
+        "field3": "Cẩn thận",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Children",
+        "field2": "10",
+        "field3": "Trẻ con",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Dangerous",
+        "field2": "10",
+        "field3": "Nguy hiểm",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Wood",
+        "field2": "10",
+        "field3": "Gỗ",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Pass",
+        "field2": "10",
+        "field3": "Vượt qua",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Carry",
+        "field2": "10",
+        "field3": "Mang theo",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Find",
+        "field2": "10",
+        "field3": "Tìm thấy",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Upstairs",
+        "field2": "10",
+        "field3": "Tầng trên",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Letter",
+        "field2": "10",
+        "field3": "Lá thư",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Thief",
+        "field2": "10",
+        "field3": "Kẻ trộm",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Handbag",
+        "field2": "10",
+        "field3": "Túi xách",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Daughter",
+        "field2": "10",
+        "field3": "Con gái",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    },
+    {
+        "field1": "Worry",
+        "field2": "10",
+        "field3": "Lo lắng",
+        "field4": "0",
+        "field5": "Yêu cầu sự giúp đỡ"
+    }
+]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/view_level"
+                tools:context=".View.LevelSpeakActivity">
+
+    <ImageView
+            android:layout_width="360dp"
+            android:layout_height="210dp"
+            android:background="@drawable/vong_edit"
+    />
+    <ImageView
+            android:layout_below="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#ffffff"/>
+
+
+    <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:minHeight="?attr/actionBarSize"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            app:titleTextColor="@android:color/white"
+            android:background="?attr/colorPrimary">
+        <!--<Button-->
+                <!--android:layout_gravity="end"-->
+                <!--android:layout_marginRight="17dp"-->
+                <!--android:gravity="center"-->
+                <!--android:id="@+id/bt_switch_list_grid_2"-->
+                <!--android:layout_width="25dp"-->
+                <!--android:layout_height="25dp"-->
+                <!--android:background="@drawable/bt_switch_grid"/>-->
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_lv_speak"
+            android:layout_below="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="7dp"
+
+    >
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:background="#000000"/>
+
+    <LinearLayout
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="40dp"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_vocanoti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="#fc5353"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_mean"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_marginTop="3dp"
+            android:textSize="13dp"
+            android:text="TextView" />
+    </LinearLayout>
+
+    <!--<ImageView-->
+        <!--android:id="@+id/iv_light"-->
+        <!--android:layout_width="13dp"-->
+        <!--android:layout_height="30dp"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginRight="50dp"-->
+        <!--android:background="@drawable/offlight" />-->
+
+    <!--<com.like.LikeButton-->
+        <!--app:icon_type="star"-->
+        <!--app:icon_size="20dp"-->
+        <!--app:dots_primary_color="@color/colorAccent"-->
+        <!--app:dots_secondary_color="@color/colorPrimary"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginRight="30dp"-->
+        <!--android:id="@+id/star_button"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"/>-->
+
+    <!--<com.varunest.sparkbutton.SparkButton-->
+    <!--android:id="@+id/spark_button"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--app:sparkbutton_activeImage="@drawable/onlightning"-->
+    <!--app:sparkbutton_inActiveImage="@drawable/offlight"-->
+    <!--app:sparkbutton_iconSize="40dp"-->
+    <!--app:sparkbutton_primaryColor="@color/colorPrimary"-->
+    <!--app:sparkbutton_secondaryColor="@color/blue"-->
+    <!--android:layout_alignParentRight="true"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:layout_marginRight="10dp"/>-->
+
+
+    <ImageView
+            android:id="@+id/iv_light_translist"
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/unlike_star" />
+
+
+</RelativeLayout>
